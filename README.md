@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NushiJohn, I am a class of 23 student at Boston College, majoring in Computer Science B.S. with minors in Mathematics and Hispanic Studies.
 - 👀 I’m interested in exercising, video games, and learning how to code.
-- 🌱 I’m currently learning python. I have experience with Java and C as well.
+- 🌱 I’m currently learning Python. I have experience with Java, C, and Ocaml as well.
 - 📫 How to reach me: my phone number is 7819410398, and my email is nushijohn@gmail.com.
