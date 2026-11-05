@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NushiJohn, I am a Boston College graduate with a B.S. in Computer Science with a minor in Hispanic Studies.
 - 👀 I’m interested in exercising, video games, and learning how to code.
-- 🌱 I’m currently learning AWS and Javascript. I have experience with Python, Java, C, and Ocaml as well.
+- 🌱 I have experience with Python, Java, C, and C#.
 - 📫 How to reach me: my phone number is 7819410398, and my email is nushijohn@gmail.com.
